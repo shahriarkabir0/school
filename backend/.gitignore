@@ -1,0 +1,52 @@
+# 💾 Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# 📦 Build Files
+dist/
+build/
+.vite/
+
+# 🛠 Editor & OS-specific files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 🔑 Environment Variables
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# 🔥 Logs & Cache
+logs/
+*.log
+debug.log
+pids/
+*.pid
+*.seed
+*.pid.lock
+.cache/
+coverage/
+
+# 🛠 Binaries
+*.exe
+*.out
+*.app
+
+# 💻 Backend MongoDB Dumps
+dump/
+*.gz
+
+# 🛠 Misc
+tmp/
