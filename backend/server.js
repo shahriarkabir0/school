@@ -19,7 +19,8 @@ const allowedOrigins = [
   'http://103.191.51.232',
   'https://shahriarkabir.xyz',
   'https://www.shahriarkabir.xyz',
-  'https://gonosvmc.vercel.app'
+  'https://gonosvmc.vercel.app',
+  'https://school-iota-eight.vercel.app',
 ];
 
 const corsOptions = {
