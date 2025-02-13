@@ -21,6 +21,7 @@ const allowedOrigins = [
   'https://www.shahriarkabir.xyz',
   'https://gonosvmc.vercel.app',
   'https://school-iota-eight.vercel.app',
+  'https://web.gonosvmc.edu.bd',
 ];
 
 const corsOptions = {
